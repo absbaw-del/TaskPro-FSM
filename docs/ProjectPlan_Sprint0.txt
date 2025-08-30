@@ -1,3 +1,61 @@
-📄 TaskPro FSM – Sprint 0
-هذا الملف مخصص لتوثيق خطة المشروع ومراحله (Phase 1 – Phase 2 – Phase 3).
-سيتم تحديثه بشكل مستمر.
+📄 TaskPro FSM – Sprint 0 (Project Initialization)
+
+Owner: Abdullah Bawzeer  
+Date: [ضع تاريخ اليوم]
+
+---
+
+🎯 أهداف Sprint 0
+- تجهيز بيئة عمل نظيفة (GitHub + مجلدات + ملفات).
+- توثيق مراحل المشروع (Phase 1 – Phase 2 – Phase 3).
+- تقسيم السبرنتات لكل مرحلة.
+- تحديد الأدوات والتقنيات الأساسية.
+- تجهيز خطة عمل واضحة قبل أي كود.
+
+---
+
+🛠️ الأدوات والتقنيات
+- Frontend: FlutterFlow (Mobile), React (Web)
+- Backend: FastAPI (Python)
+- Database: Supabase (Postgres)
+- Version Control: GitHub
+- Documentation: TXT/Word داخل docs/
+
+---
+
+📌 مراحل المشروع (Phases)
+1. Phase 1 – Core FSM
+   - Service Orders (SO)
+   - Work Orders (WO)
+   - Tasks / Subtasks
+   - SLA Management
+   - Inventory (Materials, Warehouses, Approvals)
+   - Assets (Equipment, Vehicles, Maintenance)
+
+2. Phase 2 – Collaboration & Intelligence
+   - Chat & Notifications
+   - Meetings (Zoom/MS Teams integration)
+   - Reports & Dashboards
+   - AI Insights (SLA, Performance, Dispatcher)
+
+3. Phase 3 – Advanced & Add-ons
+   - Billing & Invoicing
+   - Projects Module
+   - LMS / Training
+   - Global Ticketing
+   - Extra Integrations (ERP, HR, Mapbox, WhatsApp)
+
+---
+
+📅 Sprint Structure
+- Sprint 0: Initialization & Planning
+- Sprint 1: Core Database Design
+- Sprint 2: Authentication & Users
+- Sprint 3: Service Orders + Work Orders
+- Sprint 4: Tasks/Subtasks + SLA
+- Sprint 5: Inventory Module
+- Sprint 6: Assets Module
+- Sprint 7: Reports/Dashboards
+- Sprint 8: Chat/Meetings/Notifications
+- Sprint 9: AI Insights
+- Sprint 10: Phase 2+ Add-ons
