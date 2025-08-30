@@ -1,7 +1,7 @@
 📄 TaskPro FSM – Sprint 0 (Project Initialization)
 
 Owner: Abdullah Bawzeer  
-Date: [ضع تاريخ اليوم]
+Date: [30-08-2025]
 
 ---
 
